@@ -1,13 +1,13 @@
-# Hd0909.github.io
-#hghjghjgy
-# 我的网站
+# ntRNA
 
-欢迎来到我的网站！这里会分享我的一些技术经验和生活趣事。
+# ntRNA junctions database
 
-## 技术分享
-- 前端开发技巧
-- 后端开发经验
+welecome to the ntRNA junction database
 
-## 生活趣事
-- 旅行见闻
-- 美食推荐
+## ntRNA
+-genes
+- plots
+
+## new RNA 
+- genes
+- plots
