@@ -10,5 +10,4 @@ welecome to the ntRNA junction database
 
 ## new RNA 
 - genes
-- plots
- <a href="https://drive.google.com/file/d/1nkL7byWyFKt-mfdO_YgTUZ912ZG9SFZL/view?usp=drive_link" class="btn" download>下载文件</a>    
+- <a href="https://drive.google.com/file/d/1nkL7byWyFKt-mfdO_YgTUZ912ZG9SFZL/view?usp=drive_link" class="btn" download>plots</a>    
