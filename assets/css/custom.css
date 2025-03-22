@@ -10,3 +10,23 @@
 .btn:hover {
     background-color: #0056b3;
 }    
+
+a {
+    color: #007BFF;
+}
+
+a:hover {
+    color: #0056b3;
+}    .download-link {
+    color: #007BFF;
+}
+
+.download-link:hover {
+    color: #0056b3;
+}    .container .download-link {
+    color: #007BFF;
+}
+
+.container .download-link:hover {
+    color: #0056b3;
+}    
