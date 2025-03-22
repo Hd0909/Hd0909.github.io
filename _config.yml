@@ -8,3 +8,11 @@ github:
   another_url: another value
 css:
   - "/assets/css/custom.css"
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+include:
+  - _pages
