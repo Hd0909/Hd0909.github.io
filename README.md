@@ -1,6 +1,6 @@
 # ntRNA
 
-# ntRNA junctions database
+# ntRNA junctions databas
 
 welecome to the ntRNA junction database
 
