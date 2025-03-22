@@ -16,3 +16,10 @@ plugins:
   - jekyll-feed
 include:
   - _pages
+page_categories:
+  - category: 技术
+    url: /technology
+  - category: 生活
+    url: /life
+  - category: 娱乐
+    url: /entertainment    
