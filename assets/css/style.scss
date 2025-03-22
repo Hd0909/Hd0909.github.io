@@ -1,6 +1,7 @@
 ---
 ---
-
+// 设置新的链接颜色变量
+$link-color: #007BFF;
 @import "{{ site.theme }}";
 a:hover {
     color: #0056b3;
