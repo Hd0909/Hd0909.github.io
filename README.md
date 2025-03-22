@@ -5,7 +5,7 @@
 welecome to the ntRNA junction database
 
 ## ntRNA
--genes
+- genes
 - plots
 
 ## new RNA 
